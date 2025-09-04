@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Raoni 👨‍💻
 
-<!--
-**Raoni-Silla/Raoni-Silla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Aluno do **4º semestre de Análise e Desenvolvimento de Sistemas** na FEMA  
+- 💼 Estagiário no **CEPEIN (FEMA)**  
+- 💻 Experiência com **C++**  
+- 📚 Atualmente estudando **Python**, **Java**, **Spring Boot** e **back-end** 
+- 🌐 Também explorando **desenvolvimento front-end**  
+- 🚀 Focado em evoluir no **back-end** e crescer como desenvolvedor full stack no futuro  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Minhas Contribuições
+
+
+![Snake animation](https://github.com/Raoni-Silla/Raoni-Silla/blob/output/snake.svg)
+
+---
