@@ -9,8 +9,6 @@
 
 ---
 
-### 📊 Minhas Contribuições
-
 
 ![Snake animation](https://github.com/Raoni-Silla/Raoni-Silla/blob/output/snake.svg)
 
