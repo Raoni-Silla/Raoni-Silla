@@ -6,7 +6,7 @@
 Me chamo Raoni mendes silla, tenho 19 anos e sou natural de são paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FEMA. Sou apaixonado por tecnologia e almejo um dia me tornar um bom desenvolvedor full stack, atualmente trabalho como estagiario no CEPEIN - fema
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Raoni-Silla?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
