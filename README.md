@@ -7,3 +7,4 @@
 - 🌐 Também explorando **desenvolvimento front-end**  
 - 🚀 Focado em evoluir no **back-end** e crescer como desenvolvedor full stack no futuro  
 ---
+![snake gif](https://github.com/Raoni-Silla\Raoni-Silla/blob/output/github-contribution-grid-snake.svg)
