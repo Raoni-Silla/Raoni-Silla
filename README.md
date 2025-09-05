@@ -82,5 +82,6 @@ Me chamo Raoni mendes silla, tenho 19 anos e sou natural de são paulo. Atualmen
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raoni-Silla&theme=tokyonight&layout=compact&custom_tittle=Tecnologias&include_all_commits-true" 
 />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raoni-Silla/gitrepo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Raoni-Silla/Raoni-Silla/output/snake.svg" alt="Snake animation"/>
+ 
 </p>
