@@ -37,6 +37,14 @@ Me chamo Raoni mendes silla, tenho 19 anos e sou natural de são paulo. Atualmen
 />
 <img 
     align="left" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
     alt="C++"
     title="C++" 
     width="30px" 
@@ -59,14 +67,7 @@ Me chamo Raoni mendes silla, tenho 19 anos e sou natural de são paulo. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
+
 
 
 <!-- Front-end -->
