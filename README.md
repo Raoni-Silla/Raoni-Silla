@@ -1,9 +1,9 @@
 
 # 🧑‍💻 Raoní Silla
 
-**`Futuro Dev-FullStack`**
+**`Futuro Dev-BackEnd`**
 
-Me chamo Raoni mendes silla, tenho 19 anos e sou natural de são paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FEMA. Sou apaixonado por tecnologia e almejo um dia me tornar um bom desenvolvedor full stack, atualmente atuo como estagiario no CEPEIN - fema
+Me chamo Raoni mendes silla, tenho 19 anos e sou natural de são paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FEMA. Sou apaixonado por tecnologia e almejo um dia me tornar um bom desenvolvedor back-end com conhecimentos em cybersegurança, atualmente atuo como estagiario no CEPEIN - fema
 
 <p align="center">
     <a href="https://github.com/Raoni-Silla?tab=repositories&sort=stargazers">
