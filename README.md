@@ -1,7 +1,7 @@
 
 # 🧑‍💻 Raoní Silla
 
-**`Futuro Dev-BackEnd`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Raoni mendes silla, tenho 19 anos e sou natural de são paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FEMA. Sou apaixonado por tecnologia e almejo um dia me tornar um bom desenvolvedor back-end, atualmente atuo como estagiario no CEPEIN - fema
 
@@ -111,5 +111,4 @@ Me chamo Raoni mendes silla, tenho 19 anos e sou natural de são paulo. Atualmen
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Raoni-Silla/Raoni-Silla/output/snake.svg" alt="Snake animation"/>
- 
 </p>
