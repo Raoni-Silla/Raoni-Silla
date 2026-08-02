@@ -108,7 +108,3 @@ Me chamo Raoni mendes silla, tenho 19 anos e sou natural de são paulo. Atualmen
 <br/>
 <br/>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raoni-Silla/Raoni-Silla/output/snake.svg" alt="Snake animation"/>
-</p>
